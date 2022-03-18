@@ -81,6 +81,9 @@ section {
   /* tamanho máximo do elemento */
   max-width: 70vw;
 }
+h1  {
+  align-content: center;
+}
 section h1 {
   padding: 40px 10px;
 
